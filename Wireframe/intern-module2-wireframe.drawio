@@ -1,0 +1,334 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
+  <diagram name="Page-1" id="3RFkX6XrNMTXXSs842zs">
+    <mxGraphModel dx="913" dy="454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fLgcSKmfbpZdAhevkN7L-4" value="" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="20" width="800" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="fLgcSKmfbpZdAhevkN7L-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="fLgcSKmfbpZdAhevkN7L-4">
+          <mxGeometry x="20" y="50" width="760" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fLgcSKmfbpZdAhevkN7L-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="fLgcSKmfbpZdAhevkN7L-4">
+          <mxGeometry x="20" y="130" width="760" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="fLgcSKmfbpZdAhevkN7L-12" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Smart Parking Spot&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=0;glass=0;shadow=0;fontStyle=1;labelBackgroundColor=none;fontSize=18;" vertex="1" parent="fLgcSKmfbpZdAhevkN7L-4">
+          <mxGeometry x="29" y="60" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fLgcSKmfbpZdAhevkN7L-13" value="Home" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="fLgcSKmfbpZdAhevkN7L-4">
+          <mxGeometry x="216" y="60" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fLgcSKmfbpZdAhevkN7L-16" value="Booking" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="fLgcSKmfbpZdAhevkN7L-4">
+          <mxGeometry x="509" y="60" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fLgcSKmfbpZdAhevkN7L-15" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#009900&quot;&gt;Smart spots&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="fLgcSKmfbpZdAhevkN7L-4">
+          <mxGeometry x="399" y="60" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fLgcSKmfbpZdAhevkN7L-14" value="Registration" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="fLgcSKmfbpZdAhevkN7L-4">
+          <mxGeometry x="306" y="60" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fLgcSKmfbpZdAhevkN7L-19" value="Addon Services" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="fLgcSKmfbpZdAhevkN7L-4">
+          <mxGeometry x="584" y="60" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fLgcSKmfbpZdAhevkN7L-18" value="EV Charge" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="fLgcSKmfbpZdAhevkN7L-4">
+          <mxGeometry x="690" y="60" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fLgcSKmfbpZdAhevkN7L-90" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="fLgcSKmfbpZdAhevkN7L-4">
+          <mxGeometry x="20" y="130" width="190" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="fLgcSKmfbpZdAhevkN7L-93" value="&lt;b&gt;&lt;font color=&quot;#009900&quot;&gt;Add New Parking Spot&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="fLgcSKmfbpZdAhevkN7L-4">
+          <mxGeometry x="40" y="161" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fLgcSKmfbpZdAhevkN7L-94" value="Search for Available Spots" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="fLgcSKmfbpZdAhevkN7L-4">
+          <mxGeometry x="34" y="200" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fLgcSKmfbpZdAhevkN7L-95" value="View Available Spots" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="fLgcSKmfbpZdAhevkN7L-4">
+          <mxGeometry x="49" y="238" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fLgcSKmfbpZdAhevkN7L-96" value="Modify Parking Spot" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="fLgcSKmfbpZdAhevkN7L-4">
+          <mxGeometry x="40" y="276" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fLgcSKmfbpZdAhevkN7L-97" value="Remove Unavailable Spot" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="fLgcSKmfbpZdAhevkN7L-4">
+          <mxGeometry x="40" y="310" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fLgcSKmfbpZdAhevkN7L-122" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="fLgcSKmfbpZdAhevkN7L-4">
+          <mxGeometry x="430" y="163" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fLgcSKmfbpZdAhevkN7L-124" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="fLgcSKmfbpZdAhevkN7L-4">
+          <mxGeometry x="430" y="260" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fLgcSKmfbpZdAhevkN7L-123" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="fLgcSKmfbpZdAhevkN7L-4">
+          <mxGeometry x="430" y="211" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fLgcSKmfbpZdAhevkN7L-125" value="Location" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="fLgcSKmfbpZdAhevkN7L-4">
+          <mxGeometry x="276" y="173" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fLgcSKmfbpZdAhevkN7L-127" value="Date" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="fLgcSKmfbpZdAhevkN7L-4">
+          <mxGeometry x="276" y="257" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fLgcSKmfbpZdAhevkN7L-126" value="Availability" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="fLgcSKmfbpZdAhevkN7L-4">
+          <mxGeometry x="276" y="214" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fLgcSKmfbpZdAhevkN7L-128" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="fLgcSKmfbpZdAhevkN7L-4">
+          <mxGeometry x="480" y="315" width="60" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="fLgcSKmfbpZdAhevkN7L-129" value="Add" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="fLgcSKmfbpZdAhevkN7L-4">
+          <mxGeometry x="480" y="312.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fLgcSKmfbpZdAhevkN7L-20" value="" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="440" width="800" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="fLgcSKmfbpZdAhevkN7L-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="fLgcSKmfbpZdAhevkN7L-20">
+          <mxGeometry x="20" y="50" width="760" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fLgcSKmfbpZdAhevkN7L-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="fLgcSKmfbpZdAhevkN7L-20">
+          <mxGeometry x="20" y="130" width="760" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="fLgcSKmfbpZdAhevkN7L-23" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Smart Parking Spot&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=0;glass=0;shadow=0;fontStyle=1;labelBackgroundColor=none;fontSize=18;" vertex="1" parent="fLgcSKmfbpZdAhevkN7L-20">
+          <mxGeometry x="29" y="60" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fLgcSKmfbpZdAhevkN7L-24" value="Home" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="fLgcSKmfbpZdAhevkN7L-20">
+          <mxGeometry x="216" y="60" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fLgcSKmfbpZdAhevkN7L-25" value="Booking" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="fLgcSKmfbpZdAhevkN7L-20">
+          <mxGeometry x="509" y="60" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fLgcSKmfbpZdAhevkN7L-26" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#009900&quot;&gt;Smart spots&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="fLgcSKmfbpZdAhevkN7L-20">
+          <mxGeometry x="399" y="60" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fLgcSKmfbpZdAhevkN7L-27" value="Registration" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="fLgcSKmfbpZdAhevkN7L-20">
+          <mxGeometry x="306" y="60" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fLgcSKmfbpZdAhevkN7L-28" value="Addon Services" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="fLgcSKmfbpZdAhevkN7L-20">
+          <mxGeometry x="584" y="60" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fLgcSKmfbpZdAhevkN7L-29" value="EV Charge" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="fLgcSKmfbpZdAhevkN7L-20">
+          <mxGeometry x="690" y="60" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fLgcSKmfbpZdAhevkN7L-98" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="fLgcSKmfbpZdAhevkN7L-20">
+          <mxGeometry x="20" y="130" width="190" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="fLgcSKmfbpZdAhevkN7L-99" value="Add New Parking Spot" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="fLgcSKmfbpZdAhevkN7L-20">
+          <mxGeometry x="40" y="161" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fLgcSKmfbpZdAhevkN7L-100" value="&lt;b&gt;&lt;font color=&quot;#009900&quot;&gt;Search for Available Spots&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="fLgcSKmfbpZdAhevkN7L-20">
+          <mxGeometry x="34" y="200" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fLgcSKmfbpZdAhevkN7L-101" value="View Available Spots" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="fLgcSKmfbpZdAhevkN7L-20">
+          <mxGeometry x="49" y="238" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fLgcSKmfbpZdAhevkN7L-102" value="Modify Parking Spot" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="fLgcSKmfbpZdAhevkN7L-20">
+          <mxGeometry x="40" y="276" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fLgcSKmfbpZdAhevkN7L-103" value="Remove Unavailable Spot" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="fLgcSKmfbpZdAhevkN7L-20">
+          <mxGeometry x="40" y="310" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fLgcSKmfbpZdAhevkN7L-130" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="fLgcSKmfbpZdAhevkN7L-20">
+          <mxGeometry x="424" y="191" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fLgcSKmfbpZdAhevkN7L-131" value="Location" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="fLgcSKmfbpZdAhevkN7L-20">
+          <mxGeometry x="276" y="191" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fLgcSKmfbpZdAhevkN7L-134" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="fLgcSKmfbpZdAhevkN7L-20">
+          <mxGeometry x="479" y="285" width="60" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="fLgcSKmfbpZdAhevkN7L-139" value="Search" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="fLgcSKmfbpZdAhevkN7L-20">
+          <mxGeometry x="479" y="282.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fLgcSKmfbpZdAhevkN7L-60" value="" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="850" width="800" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="fLgcSKmfbpZdAhevkN7L-61" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="fLgcSKmfbpZdAhevkN7L-60">
+          <mxGeometry x="20" y="50" width="760" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fLgcSKmfbpZdAhevkN7L-62" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="fLgcSKmfbpZdAhevkN7L-60">
+          <mxGeometry x="20" y="130" width="760" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="fLgcSKmfbpZdAhevkN7L-63" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Smart Parking Spot&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=0;glass=0;shadow=0;fontStyle=1;labelBackgroundColor=none;fontSize=18;" vertex="1" parent="fLgcSKmfbpZdAhevkN7L-60">
+          <mxGeometry x="29" y="60" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fLgcSKmfbpZdAhevkN7L-64" value="Home" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="fLgcSKmfbpZdAhevkN7L-60">
+          <mxGeometry x="216" y="60" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fLgcSKmfbpZdAhevkN7L-65" value="Booking" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="fLgcSKmfbpZdAhevkN7L-60">
+          <mxGeometry x="509" y="60" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fLgcSKmfbpZdAhevkN7L-66" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#009900&quot;&gt;Smart spots&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="fLgcSKmfbpZdAhevkN7L-60">
+          <mxGeometry x="399" y="60" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fLgcSKmfbpZdAhevkN7L-67" value="Registration" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="fLgcSKmfbpZdAhevkN7L-60">
+          <mxGeometry x="306" y="60" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fLgcSKmfbpZdAhevkN7L-68" value="Addon Services" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="fLgcSKmfbpZdAhevkN7L-60">
+          <mxGeometry x="584" y="60" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fLgcSKmfbpZdAhevkN7L-69" value="EV Charge" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="fLgcSKmfbpZdAhevkN7L-60">
+          <mxGeometry x="690" y="60" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fLgcSKmfbpZdAhevkN7L-104" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="fLgcSKmfbpZdAhevkN7L-60">
+          <mxGeometry x="20" y="130" width="190" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="fLgcSKmfbpZdAhevkN7L-105" value="Add New Parking Spot" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="fLgcSKmfbpZdAhevkN7L-60">
+          <mxGeometry x="40" y="161" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fLgcSKmfbpZdAhevkN7L-106" value="Search for Available Spots" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="fLgcSKmfbpZdAhevkN7L-60">
+          <mxGeometry x="34" y="200" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fLgcSKmfbpZdAhevkN7L-107" value="&lt;b&gt;&lt;font color=&quot;#009900&quot;&gt;View Available Spots&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="fLgcSKmfbpZdAhevkN7L-60">
+          <mxGeometry x="49" y="238" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fLgcSKmfbpZdAhevkN7L-108" value="Modify Parking Spot" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="fLgcSKmfbpZdAhevkN7L-60">
+          <mxGeometry x="40" y="276" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fLgcSKmfbpZdAhevkN7L-109" value="Remove Unavailable Spot" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="fLgcSKmfbpZdAhevkN7L-60">
+          <mxGeometry x="40" y="310" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fLgcSKmfbpZdAhevkN7L-135" value="Available spots" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" vertex="1" parent="fLgcSKmfbpZdAhevkN7L-60">
+          <mxGeometry x="306" y="165" width="360" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="fLgcSKmfbpZdAhevkN7L-136" value="Location" style="swimlane;startSize=20;html=1;" vertex="1" parent="fLgcSKmfbpZdAhevkN7L-135">
+          <mxGeometry y="20" width="120" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="fLgcSKmfbpZdAhevkN7L-137" value="Available status" style="swimlane;startSize=20;html=1;" vertex="1" parent="fLgcSKmfbpZdAhevkN7L-135">
+          <mxGeometry x="120" y="20" width="120" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="fLgcSKmfbpZdAhevkN7L-138" value="Date" style="swimlane;startSize=20;html=1;" vertex="1" parent="fLgcSKmfbpZdAhevkN7L-135">
+          <mxGeometry x="240" y="20" width="120" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="fLgcSKmfbpZdAhevkN7L-70" value="" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1280" width="800" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="fLgcSKmfbpZdAhevkN7L-71" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="fLgcSKmfbpZdAhevkN7L-70">
+          <mxGeometry x="20" y="50" width="760" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fLgcSKmfbpZdAhevkN7L-72" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="fLgcSKmfbpZdAhevkN7L-70">
+          <mxGeometry x="20" y="130" width="760" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="fLgcSKmfbpZdAhevkN7L-73" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Smart Parking Spot&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=0;glass=0;shadow=0;fontStyle=1;labelBackgroundColor=none;fontSize=18;" vertex="1" parent="fLgcSKmfbpZdAhevkN7L-70">
+          <mxGeometry x="29" y="60" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fLgcSKmfbpZdAhevkN7L-74" value="Home" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="fLgcSKmfbpZdAhevkN7L-70">
+          <mxGeometry x="216" y="60" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fLgcSKmfbpZdAhevkN7L-75" value="Booking" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="fLgcSKmfbpZdAhevkN7L-70">
+          <mxGeometry x="509" y="60" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fLgcSKmfbpZdAhevkN7L-76" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#009900&quot;&gt;Smart spots&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="fLgcSKmfbpZdAhevkN7L-70">
+          <mxGeometry x="399" y="60" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fLgcSKmfbpZdAhevkN7L-77" value="Registration" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="fLgcSKmfbpZdAhevkN7L-70">
+          <mxGeometry x="306" y="60" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fLgcSKmfbpZdAhevkN7L-78" value="Addon Services" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="fLgcSKmfbpZdAhevkN7L-70">
+          <mxGeometry x="584" y="60" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fLgcSKmfbpZdAhevkN7L-79" value="EV Charge" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="fLgcSKmfbpZdAhevkN7L-70">
+          <mxGeometry x="690" y="60" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fLgcSKmfbpZdAhevkN7L-110" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="fLgcSKmfbpZdAhevkN7L-70">
+          <mxGeometry x="20" y="130" width="190" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="fLgcSKmfbpZdAhevkN7L-111" value="Add New Parking Spot" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="fLgcSKmfbpZdAhevkN7L-70">
+          <mxGeometry x="40" y="161" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fLgcSKmfbpZdAhevkN7L-112" value="Search for Available Spots" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="fLgcSKmfbpZdAhevkN7L-70">
+          <mxGeometry x="34" y="200" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fLgcSKmfbpZdAhevkN7L-113" value="View Available Spots" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="fLgcSKmfbpZdAhevkN7L-70">
+          <mxGeometry x="49" y="238" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fLgcSKmfbpZdAhevkN7L-114" value="&lt;b&gt;&lt;font color=&quot;#009900&quot;&gt;Modify Parking Spot&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="fLgcSKmfbpZdAhevkN7L-70">
+          <mxGeometry x="40" y="276" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fLgcSKmfbpZdAhevkN7L-115" value="Remove Unavailable Spot" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="fLgcSKmfbpZdAhevkN7L-70">
+          <mxGeometry x="40" y="310" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fLgcSKmfbpZdAhevkN7L-140" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="fLgcSKmfbpZdAhevkN7L-70">
+          <mxGeometry x="454" y="161" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fLgcSKmfbpZdAhevkN7L-141" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="fLgcSKmfbpZdAhevkN7L-70">
+          <mxGeometry x="454" y="258" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fLgcSKmfbpZdAhevkN7L-142" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="fLgcSKmfbpZdAhevkN7L-70">
+          <mxGeometry x="454" y="209" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fLgcSKmfbpZdAhevkN7L-143" value="Location" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="fLgcSKmfbpZdAhevkN7L-70">
+          <mxGeometry x="300" y="171" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fLgcSKmfbpZdAhevkN7L-144" value="Date" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="fLgcSKmfbpZdAhevkN7L-70">
+          <mxGeometry x="300" y="255" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fLgcSKmfbpZdAhevkN7L-145" value="Availability" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="fLgcSKmfbpZdAhevkN7L-70">
+          <mxGeometry x="300" y="212" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fLgcSKmfbpZdAhevkN7L-147" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="fLgcSKmfbpZdAhevkN7L-70">
+          <mxGeometry x="510" y="310" width="59" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="fLgcSKmfbpZdAhevkN7L-153" value="Modify" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="fLgcSKmfbpZdAhevkN7L-70">
+          <mxGeometry x="509" y="306" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fLgcSKmfbpZdAhevkN7L-80" value="" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1680" width="800" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="fLgcSKmfbpZdAhevkN7L-81" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="fLgcSKmfbpZdAhevkN7L-80">
+          <mxGeometry x="20" y="50" width="760" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fLgcSKmfbpZdAhevkN7L-82" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="fLgcSKmfbpZdAhevkN7L-80">
+          <mxGeometry x="20" y="130" width="760" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="fLgcSKmfbpZdAhevkN7L-83" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Smart Parking Spot&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=0;glass=0;shadow=0;fontStyle=1;labelBackgroundColor=none;fontSize=18;" vertex="1" parent="fLgcSKmfbpZdAhevkN7L-80">
+          <mxGeometry x="29" y="60" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fLgcSKmfbpZdAhevkN7L-84" value="Home" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="fLgcSKmfbpZdAhevkN7L-80">
+          <mxGeometry x="216" y="60" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fLgcSKmfbpZdAhevkN7L-85" value="Booking" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="fLgcSKmfbpZdAhevkN7L-80">
+          <mxGeometry x="509" y="60" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fLgcSKmfbpZdAhevkN7L-86" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#009900&quot;&gt;Smart spots&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="fLgcSKmfbpZdAhevkN7L-80">
+          <mxGeometry x="399" y="60" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fLgcSKmfbpZdAhevkN7L-87" value="Registration" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="fLgcSKmfbpZdAhevkN7L-80">
+          <mxGeometry x="306" y="60" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fLgcSKmfbpZdAhevkN7L-88" value="Addon Services" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="fLgcSKmfbpZdAhevkN7L-80">
+          <mxGeometry x="584" y="60" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fLgcSKmfbpZdAhevkN7L-89" value="EV Charge" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="fLgcSKmfbpZdAhevkN7L-80">
+          <mxGeometry x="690" y="60" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fLgcSKmfbpZdAhevkN7L-116" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="fLgcSKmfbpZdAhevkN7L-80">
+          <mxGeometry x="19" y="130" width="190" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="fLgcSKmfbpZdAhevkN7L-117" value="Add New Parking Spot" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="fLgcSKmfbpZdAhevkN7L-80">
+          <mxGeometry x="39" y="161" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fLgcSKmfbpZdAhevkN7L-118" value="Search for Available Spots" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="fLgcSKmfbpZdAhevkN7L-80">
+          <mxGeometry x="33" y="200" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fLgcSKmfbpZdAhevkN7L-119" value="View Available Spots" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="fLgcSKmfbpZdAhevkN7L-80">
+          <mxGeometry x="48" y="238" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fLgcSKmfbpZdAhevkN7L-120" value="Modify Parking Spot" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="fLgcSKmfbpZdAhevkN7L-80">
+          <mxGeometry x="39" y="276" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fLgcSKmfbpZdAhevkN7L-121" value="&lt;b&gt;&lt;font color=&quot;#009900&quot;&gt;Remove Unavailable Spot&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="fLgcSKmfbpZdAhevkN7L-80">
+          <mxGeometry x="39" y="310" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fLgcSKmfbpZdAhevkN7L-149" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="fLgcSKmfbpZdAhevkN7L-80">
+          <mxGeometry x="454" y="191" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fLgcSKmfbpZdAhevkN7L-150" value="Location" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="fLgcSKmfbpZdAhevkN7L-80">
+          <mxGeometry x="306" y="191" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fLgcSKmfbpZdAhevkN7L-151" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="fLgcSKmfbpZdAhevkN7L-80">
+          <mxGeometry x="509" y="285" width="60" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="fLgcSKmfbpZdAhevkN7L-152" value="Remove" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="fLgcSKmfbpZdAhevkN7L-80">
+          <mxGeometry x="509" y="282.5" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
